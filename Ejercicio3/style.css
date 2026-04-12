@@ -1,0 +1,35 @@
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #d8d4a2f5;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    color: #333;
+    line-height: 1.5;
+}
+
+
+.contenido {
+    background-color: white;
+
+}
+
+
+nav {
+    background-color: #222;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
