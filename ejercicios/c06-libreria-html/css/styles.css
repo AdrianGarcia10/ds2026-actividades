@@ -1,0 +1,8 @@
+.hero {
+  background-color: #375480;
+}
+
+.card img {
+  height: auto;
+  object-fit: cover;
+}
