@@ -4,3 +4,7 @@
 .card img{
     object-fit: cover;
 }
+
+form{
+    max-width: 850px;
+}
